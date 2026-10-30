@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kagaku-imayo",
  "yomi": "いまようかしゅう",
  "category": "歌謡",
- "description": null,
+ "description": {
+  "kind": "歌謡集（今様）",
+  "era": "未詳",
+  "author": "輯 佐佐木弘綱",
+  "desc": "近世の人々が作った今様を集めたもの。本居宣長・本居大平らの作に輯者佐佐木弘綱の作を加え、四季や名所の今様を収める。"
+ },
  "editions": [
   {
    "pid": "993387",
